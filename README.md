@@ -1,1 +1,1 @@
-collaboration between Eragaabu and Humphreyddon
+This is a simple UNIX command interpreter based on bash and Sh.
